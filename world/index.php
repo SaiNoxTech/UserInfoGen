@@ -544,6 +544,7 @@ Contact</div>
     <div class="col-sm-2 col-md-6">
   <h2>User Information</h2>
    <div class="div-liner" style="width: 50%"></div>
+  <p>Generated result for:  <strong style='color:red;'> <?php echo $_POST["sex"]; ?>, <?php echo $_POST["country"]; ?> </strong></p>
  </div>
 <form class="form-inline" action="./" method="POST">
   <div class="form-group mb-2">
