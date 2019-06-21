@@ -122,7 +122,7 @@ tr:nth-child(even) {
               <!-- Main Nav -->
               <div id="menu" class="collapse">
                 <ul class="nav navbar-nav">
-                  <li class="menu"><a href="./">Home</a></li>
+                  <li class="menu"><a href="../">Home</a></li>
                    <li class="mega-menu"><a href="#">Countries </a> <span class="arrow"></span>
                       <ul class="menu-bg">
                         <li><a href="index.html#">A<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
