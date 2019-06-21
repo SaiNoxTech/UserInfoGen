@@ -63,7 +63,7 @@
 <link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
 <!-- Video PopUp -->
 <link rel="stylesheet" type="text/css" href="assets/css/YouTubePopUp.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 
 <style>
@@ -108,14 +108,14 @@ tr:nth-child(even) {
   <div class="header-section transparent pin-style sty1">
     <div class="container">
       <div class="mod-menu">
-        <div class="row"> 
+        <div class="row">
           <!-- Logo -->
           <div class="col-sm-2"><a href="index.html" title="" class="logo sty-one"><span style="font-family: 'Bangers', cursive; font-size:1.3em; color:#000">User Info Generator</span></a></div>
           <!-- End Logo -->
           <div class="col-sm-10">
             <div class="main-nav">
               <ul class="nav navbar-nav top-nav">
-                
+
                 <li class="visible-xs menu-icon"><a href="javascript:void(0)" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false"> <i aria-hidden="true" class="fa fa-bars"></i></a></li>
                 <!-- End Mobile nav icon -->
               </ul>
@@ -127,26 +127,26 @@ tr:nth-child(even) {
                       <ul class="menu-bg">
                         <li><a href="index.html#">A<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="team.html">Algeria</a></li>
-                            <li><a href="team.html">Albania</a></li>
-                            <li><a href="team2.html">Armenia</a></li>
-                            <li><a href="team3.html">Argentina</a></li>
-                            <li><a href="about.html">Austria</a></li>
-                            <li><a href="about2.html">Azerbaijan</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Algeria'; ?>">Algeria</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Albania'; ?>">Albania</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Armenia'; ?>">Armenia</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Argentina'; ?>">Argentina</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Austria'; ?>">Austria</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Azerbaijan'; ?>">Azerbaijan</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">B<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="services3.html">Bangladesh</a></li>
-                            <li><a href="services3.html">Bahamas</a></li>
-                            <li><a href="about-me.html">Brazil</a></li>
-                            <li><a href="faqs.html">Bahrain</a></li>
-                            <li><a href="faqs2.html">Belgium</a></li>
-                            <li><a href="faqs3.html">Belarus</a></li>
-                            <li><a href="services.html">Brunei</a></li>
-                            <li><a href="services2.html">Bolivia</a></li>
-                            <li><a href="services3.html">Bahamas</a></li>
-                            <li><a href="services3.html">Botswana</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Bangladesh'; ?>">Bangladesh</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Bahamas'; ?>">Bahamas</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Brazil'; ?>">Brazil</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Bahrain'; ?>">Bahrain</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Belgium'; ?>">Belgium</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Belarus'; ?>">Belarus</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Brunei'; ?>">Brunei</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Bolivia'; ?>">Bolivia</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Bahamas'; ?>">Bahamas</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Botswana</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">C<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
@@ -207,12 +207,12 @@ tr:nth-child(even) {
                   <li class="menu"><a href="./tempmail.php">Temp Emails</a></li>
                 </ul>
               </div>
-              <!-- End Main Nav --> 
+              <!-- End Main Nav -->
             </div>
           </div>
         </div>
       </div>
     </div>
-    <!--end menu--> 
+    <!--end menu-->
   </div>
 </header>
