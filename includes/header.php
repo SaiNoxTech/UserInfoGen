@@ -166,17 +166,17 @@ tr:nth-child(even) {
                         </li>
                         <li><a href="index.html#">D<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                             <li><a href="right-sidebar.html">Denmark</a></li>
-                             <li><a href="left-nav.html">Dominican Republic</a></li>
-                             <li><a href="right-nav.html">DR Congo</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Denmark</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Dominican Republic</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">DR Congo</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">E<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                             <li><a href="right-sidebar.html">Egypt</a></li>
-                             <li><a href="404.html">Emirates</a></li>
-                             <li><a href="left-sidebar.html">Estonia</a></li>
-                             <li><a href="right-sidebar.html">Ethiopia</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Egypt</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Emirates</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Estonia</a></li>
+                             <li><a href="./world/country.php?country_id=<?php echo 'Botswana'; ?>">Ethiopia</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">F<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
