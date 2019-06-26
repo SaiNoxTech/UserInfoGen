@@ -181,21 +181,21 @@ tr:nth-child(even) {
                         </li>
                         <li><a href="index.html#">F<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="left-nav.html">Finland</a></li>
-                            <li><a href="right-nav.html">Fiji</a></li>
-                            <li><a href="coming-soon.html">France</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Finland</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Fiji</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">France</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">Popular Countries<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="left-nav.html">IN (India)</a></li>
-                            <li><a href="right-nav.html">US (United States)</a></li>
-                            <li><a href="coming-soon.html">Russia</a></li>
-                            <li><a href="coming-soon.html">Australia</a></li>
-                            <li><a href="coming-soon.html">Canada</a></li>
-                            <li><a href="coming-soon.html">France</a></li>
-                            <li><a href="coming-soon.html">Switzerland</a></li>
-                            <li><a href="coming-soon.html">Pakistan</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">IN (India)</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">US (United States)</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Russia</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Australia</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Canada</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">France</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Switzerland</a></li>
+                            <li><a href="./world/country.php?country_id=<?php echo 'Botswana'?>">Pakistan</a></li>
                           </ul>
                         </li>
                       </ul>
