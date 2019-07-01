@@ -151,51 +151,51 @@ tr:nth-child(even) {
                         </li>
                         <li><a href="index.html#">C<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="pricing.html">Croatia</a></li>
-                            <li><a href="pricing.html">Costa Rica</a></li>
-                            <li><a href="pricing2.html">Cayman</a></li>
-                            <li><a href="pricing3.html">Chile</a></li>
-                            <li><a href="contact.php.html">China</a></li>
-                            <li><a href="contact2.php.html">Cambodia</a></li>
-                            <li><a href="contact3.php.html">Cameroon</a></li>
-                            <li><a href="contact3.php.html">Colombia</a></li>
-                            <li><a href="contact3.php.html">Cuba</a></li>
-                            <li><a href="404.html">Cyprus</a></li>
-                            <li><a href="left-sidebar.html">Czech Republic</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Croatia'; ?>">Croatia</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Costa Rica'; ?>">Costa Rica</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Cayman'; ?>">Cayman</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Chile'; ?>">Chile</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'China'; ?>">China</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Cambodia'; ?>">Cambodia</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Cameroon'; ?>">Cameroon</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Colombia'; ?>">Colombia</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Cuba'; ?>">Cuba</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Cyprus'; ?>">Cyprus</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Czech Republic'; ?>">Czech Republic</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">D<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                             <li><a href="right-sidebar.html">Denmark</a></li>
-                             <li><a href="left-nav.html">Dominican Republic</a></li>
-                             <li><a href="right-nav.html">DR Congo</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Denmark'; ?>">Denmark</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Dominican Republic'; ?>">Dominican Republic</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'DR Congo'; ?>">DR Congo</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">E<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                             <li><a href="right-sidebar.html">Egypt</a></li>
-                             <li><a href="404.html">Emirates</a></li>
-                             <li><a href="left-sidebar.html">Estonia</a></li>
-                             <li><a href="right-sidebar.html">Ethiopia</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Egypt'; ?>">Egypt</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Emirates'; ?>">Emirates</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Estonia'; ?>">Estonia</a></li>
+                             <li><a href="./country.php?country_id=<?php echo 'Ethiopia'; ?>">Ethiopia</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">F<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="left-nav.html">Finland</a></li>
-                            <li><a href="right-nav.html">Fiji</a></li>
-                            <li><a href="coming-soon.html">France</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Finland'; ?>">Finland</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Fiji'; ?>">Fiji</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'France'; ?>">France</a></li>
                           </ul>
                         </li>
                         <li><a href="index.html#">Popular Countries<i class="fa fa-angle-right float-right" aria-hidden="true"></i> </a> <span class="arrow"></span>
                           <ul class="trbg">
-                            <li><a href="left-nav.html">IN (India)</a></li>
-                            <li><a href="right-nav.html">US (United States)</a></li>
-                            <li><a href="coming-soon.html">Russia</a></li>
-                            <li><a href="coming-soon.html">Australia</a></li>
-                            <li><a href="coming-soon.html">Canada</a></li>
-                            <li><a href="coming-soon.html">France</a></li>
-                            <li><a href="coming-soon.html">Switzerland</a></li>
-                            <li><a href="coming-soon.html">Pakistan</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'IN'; ?>">IN (India)</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'US'; ?>">US (United States)</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Russia'; ?>">Russia</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Australia'; ?>">Australia</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Canada'; ?>">Canada</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'France'; ?>">France</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Switzerland'; ?>">Switzerland</a></li>
+                            <li><a href="./country.php?country_id=<?php echo 'Pakistan'; ?>">Pakistan</a></li>
                           </ul>
                         </li>
                       </ul>
