@@ -5,7 +5,7 @@
       <div class="col-sm-12 col-lg-4 pr-5 mb-4">
         <h6>Contact us</h6>
         <ul class="list-unstyled addresss-info">
-          <li><i class="fa fa-envelope-o"></i> <a href="mailto:#">contact@develophowto.com</a></li>
+          <li><i class="fa fa-envelope-o"></i> <a href="mailto:#">support@forgedintech.com</a></li>
         </ul>
         <div class="social-icons sty1">
           <ul class="list-inline">
@@ -31,10 +31,10 @@
       <div class="col-sm-4 col-lg-3 mb-4">
         <h6>Useful link</h6>
         <ul class="list-unstyled">
-          <li><a href="index-7.html#">DevelopHowTo</a></li>
+          <li><a href="index-7.html#">ForgedInTech</a></li>
           <li><a href="index-7.html#">Blog Website</a></li>
           <li><a href="index-7.html#">Online Photo Editor</a></li>
-          <li><a href="index-7.html#">Owner</a></li>
+          <li><a href="index-7.html#">DevelopHowTo</a></li>
           <li><a href="index-7.html#">Seo Tools</a></li>
         </ul>
       </div>
@@ -55,7 +55,7 @@
   <div class="container">
     <div class="row mt-5">
       <div class="col-sm-12 col-lg-12 mb-3 text-muted text-center"> <span style="font-family: 'Bangers', cursive; font-size:1.5em; color:#000">User Info Generator</span>
-        <p>© User Info Generator. 2019 DHT. All rights reserved.</p>
+        <p>© User Info Generator. 2019 ForgedInTech. All rights reserved.</p>
       </div>
     </div>
   </div>
