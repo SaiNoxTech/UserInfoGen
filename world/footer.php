@@ -36,6 +36,7 @@
           <li><a href="index-7.html#">Online Photo Editor</a></li>
           <li><a href="index-7.html#">DevelopHowTo</a></li>
           <li><a href="index-7.html#">Seo Tools</a></li>
+          <li><a href="index-7.html#">Admin Login</a></li>
         </ul>
       </div>
       <div class="col-sm-12 col-lg-3 mb-4">
