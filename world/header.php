@@ -205,7 +205,6 @@ tr:nth-child(even) {
                   <li class="menu"><a href="./cc_checker.php">CC Checker</a></li>
                   <li class="menu"><a href="./pass_gen.php">Password Gen</a></li>
                   <li class="menu"><a href="./tempmail.php">Temp Emails</a></li>
-                  <li class="menu"><a href="../login.php">Login</a></li>
                 </ul>
               </div>
               <!-- End Main Nav -->
