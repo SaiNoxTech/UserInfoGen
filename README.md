@@ -1,5 +1,5 @@
 # UserInfoGen
-User Info Generator for ML DataSets
+User Info Generator for ML DataSets (Open Source)
 
 
 License
